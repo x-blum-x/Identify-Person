@@ -67,7 +67,6 @@ As seguintes bibliotecas Python são necessárias:
     ```bash
     nome_do_ambiente\Scripts\activate
 
-
 2. **Execute o script**:
     ```bash
     python caminho\para\seu\script\app.py
