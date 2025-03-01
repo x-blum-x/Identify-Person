@@ -84,8 +84,8 @@ As seguintes bibliotecas Python são necessárias:
 
 ### Problemas Conhecidos
 
-    - Aviso de depreciação: Se você encontrar um aviso sobre torch.cuda.amp.autocast, atualize o código conforme descrito na seção de solução de problemas.
-    - Falta de bibliotecas: Certifique-se de instalar todas as dependências listadas.
+- Aviso de depreciação: Se você encontrar um aviso sobre torch.cuda.amp.autocast, atualize o código conforme descrito na seção de solução de problemas.
+- Falta de bibliotecas: Certifique-se de instalar todas as dependências listadas.
 
 ### Contribuição
 
